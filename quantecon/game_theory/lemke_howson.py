@@ -1,7 +1,7 @@
 """
 Compute mixed Nash equilibria of a 2-player normal form game by the
 Lemke-Howson algorithm.
-
+Edit
 """
 import numbers
 import numpy as np
